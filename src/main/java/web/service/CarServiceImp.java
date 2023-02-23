@@ -1,9 +1,8 @@
-package web.config.service;
+package web.service;
 
 import org.springframework.stereotype.Component;
 import web.model.Car;
 
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
